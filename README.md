@@ -32,12 +32,3 @@
 
 ---
 
-## 🐍 Snake GitHub Contribution Animation
-![snake gif](https://github.com/HellianP/HellianP/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📌 Featured Repositories
-- 📁 [aprendizado-html](https://github.com/HellianP/aprendizado-html) – Estudos em HTML5 e CSS3
-- 📁 [automacoes-pessoais](#) – Scripts úteis no dia a dia
-- 📁 [portfolio](#) – Página pessoal (em construção)
