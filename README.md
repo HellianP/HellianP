@@ -2,7 +2,11 @@
   <img src="https://raw.githubusercontent.com/HellianP/HellianP/refs/heads/main/Helliantdah.gif" width="480" alt="GIF animado de multitarefa com TDAH">
 </p>
 👋 Hi there! I'm Hellian
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />](https://www.linkedin.com/in/hellianpeixinho/)
+
+<a href="https://www.linkedin.com/in/hellianpeixinho/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+</a>
+
 
 ## 🧑‍💻 About Me
 
