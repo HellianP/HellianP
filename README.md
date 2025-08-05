@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Hellian
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hellianpeixinho/)](https://www.linkedin.com/in/hellianpeixinho/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/HellianP)](https://github.com/HellianP)
 
 ---
 
