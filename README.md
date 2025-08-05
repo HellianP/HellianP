@@ -1,5 +1,4 @@
-# 👋 Hi there! I'm Hellian Sampaio Silva Peixinho
-
+# 👋 Hi there! I'm Hellian
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hellianpeixinho/)](https://www.linkedin.com/in/hellianpeixinho/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/HellianP)](https://github.com/HellianP)
 
@@ -11,15 +10,13 @@
 📘 Constantly learning and evolving, both in tech and in life  
 📚 Currently reading and exploring modern computing concepts  
 💬 Feel free to reach out about tech, careers, or life  
-⚡ Fun fact: *Je connais un peu le français*
+⚡ Fun fact: 
 
 ---
 
 ## 🚀 Technologies I'm Learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 
 ---
 
