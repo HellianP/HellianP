@@ -15,19 +15,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src=https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif width="40" height="40"/>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HellianP/HellianP/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HellianP/HellianP/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HellianP/HellianP/output/github-snake.svg" />
-</picture>
-
-
-
----
-
-
 ## 📊 GitHub Stats
 
 <div>
