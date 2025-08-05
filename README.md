@@ -1,8 +1,5 @@
 # 👋 Hi there! I'm Hellian
-
-[![LinkedIn](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif))](https://www.linkedin.com/in/hellianpeixinho/)
-
----https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />](https://www.linkedin.com/in/hellianpeixinho/)
 
 ## 🧑‍💻 About Me
 
