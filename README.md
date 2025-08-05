@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/HellianP/HellianP/main/Whisk_gif_wrjzdvmy2i.gif" width="120" alt="Pessoa multitarefa com TDAH">
+<img src="https://raw.githubusercontent.com/HellianP/HellianP/main/Whisk_gif_wrjzdvmy2i.gif" width="270" alt="Pessoa multitarefa com TDAH">
 👋 Hi there! I'm Hellian
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />](https://www.linkedin.com/in/hellianpeixinho/)
 
