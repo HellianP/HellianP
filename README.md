@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 I'm a Computer Engineering student at **Universidade Federal do Vale do São Francisco – UNIVASF**  
+                                                           🎓 I'm a Computer Engineering student at **Universidade Federal do Vale do São Francisco – UNIVASF**  
 📘 Constantly learning and evolving, both in tech and in life  
 📚 Currently exploring: web development (HTML5, CSS3), backend (PHP, Python) and databases (MySQL)  
 💬 Let's connect! I’m open to talk about tech, learning paths, academic life or career opportunities  
