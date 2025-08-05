@@ -5,9 +5,12 @@
 
 🎓 I'm a Computer Engineering student at **Universidade Federal do Vale do São Francisco – UNIVASF**  
 📘 Constantly learning and evolving, both in tech and in life  
-📚 Currently reading and exploring modern computing concepts  
-💬 Feel free to reach out about tech, careers, or life  
-⚡ Fun fact: 
+📚 Currently exploring: web development (HTML5, CSS3), backend (PHP, Python) and databases (MySQL)  
+💬 Let's connect! I’m open to talk about tech, learning paths, academic life or career opportunities  
+⚡ Fun fact about me: I believe curiosity and persistence are more powerful than talent  
+📖 Manga I’m currently reading: *Gachiakuta*  
+💡 Favorite quote: “O sucesso é a soma de pequenos esforços repetidos dia após dia.” — Robert Collier
+
 
 ---
 
@@ -24,3 +27,4 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200" height="200" alt="Descrição do GIF">
