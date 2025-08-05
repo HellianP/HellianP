@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200" height="200" alt="Descrição do GIF"> ## 👋 Hi there! I'm Hellian
+<img src="https://raw.githubusercontent.com/HellianP/HellianP/main/Whisk_gif_wrjzdvmy2i.gif" width="120" alt="Pessoa multitarefa com TDAH">
+👋 Hi there! I'm Hellian
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />](https://www.linkedin.com/in/hellianpeixinho/)
 
 ## 🧑‍💻 About Me
