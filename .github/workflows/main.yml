@@ -1,25 +1,26 @@
-name: Generate Snake
+name: 🐍 Generate Snake
+
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # a cada 12h
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
 
-      # Você pode usar a opção svg-only se quiser apenas SVG:
-      - name: Generate snake SVGs
+      - name: Gerar SVGs do Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: HellianP
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to branch output
+      - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
