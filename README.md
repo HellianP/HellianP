@@ -11,13 +11,12 @@
 <h2 align="center">🧠 About Me</h2>
 <div align="center" style="border:1px solid #444; border-radius:10px; padding:15px; margin:10px; background-color:#0d1117; color:#f0f6fc">
   <p>
-   Sou estudante de Engenharia da computação, apaixonado por tecnologia e IA, atualmente estudando para ser desenvolvedor Full-Stack, com foco em criar um portifólio para me tornar um Engenheeiro de software, para grandes empresas como Nubank,Mercado Livre ,Amazon ou ifood
+   Sou estudante de Engenharia da computação, sou muito curioso e gosto de buscar conhecimento, atualmente estudando para ser desenvolvedor Full-Stack, com foco em criar um portifólio para me tornar um Engenheeiro de software, para grandes empresas como Nubank,Mercado Livre ,Amazon ou ifood
   </p>
   <ul align="left">
-    <li>Estudante de Engenharia da Computação na <strong>UNIVASF</strong></li>
     <li>Aprendizado visual e multitarefa com foco adaptável</li>
     <li>Persistente, mesmo quando não estou no meu 100%</li>
-    <li>Atualmente lendo o mangá <em>Gachiakuta</em></li>
+    <li>Quando não estou ocupado busco jogar, ler, assistir e conversar
   </ul>
 
   <p><strong>💡 Favorite quotes:</strong></p>
