@@ -11,7 +11,7 @@
 <h2 align="center">🧠 About Me</h2>
 <div align="center" style="border:1px solid #444; border-radius:10px; padding:15px; margin:10px; background-color:#0d1117; color:#f0f6fc">
   <p>
-    Almejo construir minha carreira como engenheiro de software em uma grande empresa de tecnologia, como o Nubank, Mercado Livre ou Amazon, atuando de forma remota e colaborativa com times de alto desempenho.
+   Sou estudante de Engenharia da computação, apaixonado por tecnologia e IA, atualmente estudando para ser desenvolvedor Full-Stack, com foco em criar um portifólio para me tornar um Engenheeiro de software, para grandes empresas como Nubank,Mercado Livre ,Amazon ou ifood
   </p>
   <ul align="left">
     <li>Estudante de Engenharia da Computação na <strong>UNIVASF</strong></li>
