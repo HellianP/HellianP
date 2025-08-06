@@ -1,38 +1,46 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HellianP/HellianP/refs/heads/main/Helliantdah.gif" width="480" alt="GIF animado de multitarefa com TDAH">
+  <img src="https://raw.githubusercontent.com/HellianP/HellianP/main/Helliantdah.gif" width="480" alt="GIF animado de multitarefa com TDAH">
 </p>
 
 <p align="center">
-👋 Hi there! I'm Hellian <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30" height="30" />
+  👋 Hi there! I'm Hellian <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30" height="30" /> <a href="https://www.linkedin.com/in/hellianpeixinho/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
 </p>
-<a href="https://www.linkedin.com/in/hellianpeixinho/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
-</a>
 
-## 🧑‍💻 About Me
+<h2 align="center">🧠 About Me</h2>
+<div align="center" style="border:1px solid #444; border-radius:10px; padding:15px; margin:10px; background-color:#0d1117; color:#f0f6fc">
+  <p>
+    Almejo construir minha carreira como engenheiro de software em uma grande empresa de tecnologia, como o Nubank, Mercado Livre ou Amazon, atuando de forma remota e colaborativa com times de alto desempenho.
+  </p>
+  <ul align="left">
+    <li>Estudante de Engenharia da Computação na <strong>UNIVASF</strong></li>
+    <li>Aprendizado visual e multitarefa com foco adaptável</li>
+    <li>Persistente, mesmo quando não estou no meu 100%</li>
+    <li>Atualmente lendo o mangá <em>Gachiakuta</em></li>
+  </ul>
 
-🎓 I'm a Computer Engineering student at **Universidade Federal do Vale do São Francisco – UNIVASF**  
-📘 Constantly learning and evolving, both in tech and in life  
-📚 Currently exploring: web development (HTML5, CSS3), backend (PHP, Python) and databases (MySQL)  
-💬 Let's connect! I’m open to talk about tech, learning paths, academic life or career opportunities  
-⚡ Fun fact about me: I believe curiosity and persistence are more powerful than talent  
-📖 Manga I’m currently reading: *Gachiakuta*  
-💡 Favorite quotes: “Está tudo bem se tudo o que você conseguiu fazer hoje foi simplesmente continuar respirando.” — Yumi Sakugawa / “Some days, just getting out of bed is a win. That is enough. You are enough.” — MH Matters Project
-   
+  <p><strong>💡 Favorite quotes:</strong></p>
+  <ul align="left">
+    <li>“Você não precisa estar no seu 100% todos os dias. Dê o que puder hoje. Isso ainda é coragem.”</li>
+    <li>“Está tudo bem se tudo o que você conseguiu fazer hoje foi simplesmente continuar respirando.” — Yumi Sakugawa</li>
+    <li>“Some days, just getting out of bed is a win. That is enough. You are enough.” — MH Matters Project</li>
+  </ul>
+</div>
 
-## 🚀 Technologies I'm Learning
+</div>
+
+<h2 align="center">🚀 Formação e Objetivos Técnicos</h2>
+<div align="center" style="border:1px solid #444; border-radius:10px; padding:15px; margin:10px; background-color:#0d1117; color:#f0f6fc">
+  <p><strong>📚 Atualmente estudando:</strong></p>
+  <ul align="left">
+    <p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src=https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"  />   
+    </p>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src=https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif width="40" height="40"/>
-</p>
-<p align="center">
+</div>
 
-<div>
 <p align="center">
   <img height="150em" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellianP&layout=compact&langs_count=7&theme=dracula"/>
   <img height="150em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=HellianP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
-</div>
-</p>
-
-
-
