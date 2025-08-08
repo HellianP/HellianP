@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  👋 Hi there! I'm Hellian <img src="https://raw.githubusercontent.com/HellianP/HellianP/refs/heads/main/linkedin.gif" width="30" height="30" /> <a href="https://www.linkedin.com/in/hellianpeixinho/" target="_blank">
-  </a>
+  👋 Hi there! I'm Hellian <a href="https://www.linkedin.com/in/hellianpeixinho/" target="_blank">
+  <img src="https://raw.githubusercontent.com/HellianP/HellianP/refs/heads/main/linkedin.gif" width="30" height="30" /> </a>
 </p>
 
 <h2 align="center">🧠 About Me</h2>
