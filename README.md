@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  👋 Hi there! I'm Hellian <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30" height="30" /> <a href="https://www.linkedin.com/in/hellianpeixinho/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  👋 Hi there! I'm Hellian <img src="https://raw.githubusercontent.com/HellianP/HellianP/refs/heads/main/linkedin.gif" width="30" height="30" /> <a href="https://www.linkedin.com/in/hellianpeixinho/" target="_blank">
   </a>
 </p>
 
@@ -34,8 +33,12 @@
   <p><strong>📚 Atualmente estudando:</strong></p>
   <ul align="left">
     <p align="center">
-<img src="" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src=https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/HellianP/HellianP/refs/heads/main/html5.gif" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/HellianP/HellianP/refs/heads/main/css3.gif" width="40" height="40"/> 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" height="40"/>
+<img src=https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> 
+
           
 <p align="center">
 </div>
